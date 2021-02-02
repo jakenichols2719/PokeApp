@@ -11,12 +11,12 @@ Start having fun poking your friends today!
 
 ## Team members:
 
-- Jake Nichols
-- Helen Kim
-- Max Graef
-- Zachary Lefin
-- Kyle Baird
-- Jackson Rini
+- Jake Nichols https://github.com/jakenichols2719
+- Helen Kim https://github.com/heki5656
+- Max Graef https://github.com/graefmf
+- Zachary Lefin https://github.com/zalefin
+- Kyle Baird https://github.com/kdbaird
+- Jackson Rini https://github.com/jaxri
 
 
 # Running the Android Client
